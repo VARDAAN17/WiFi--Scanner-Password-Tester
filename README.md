@@ -62,7 +62,7 @@ WiFi--Scanner-Password-Tester/
 ├── main.py                # Main application file
 ├── requirements.txt       # Project dependencies
 ├── README.md              # Project documentation
-└── passwords.txt          # Example password list (optional)
+└── passwords.txt          # Possible password list 
 ```
 
 ## 📦 Installation Steps
