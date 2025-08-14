@@ -1,0 +1,5 @@
+venv/
+files/
+*.pptx
+*.pdf
+*.docx
